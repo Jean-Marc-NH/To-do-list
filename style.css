@@ -1,0 +1,9 @@
+*{
+    margin: none;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(200deg, rgb(176, 214, 201) 0%, rgb(215, 188, 15) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
