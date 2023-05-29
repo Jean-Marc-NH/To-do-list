@@ -7,3 +7,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.elemento{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
